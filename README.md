@@ -126,7 +126,7 @@ Step 3: Inside your HTML
             type:     'image',
             path:     './assets/printer-image.png',
             mimeType: 'image/png',
-          }
+          },
           {
             // You can also specify a "src" attribute directly
             type:     'image',
